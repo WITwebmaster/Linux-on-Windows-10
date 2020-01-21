@@ -14,3 +14,11 @@ You can:
 5. Invoke Windows applications using a Unix-like command-line shell.
 6. Invoke Linux applications on Windows
 
+{% hint style="info" %}
+To use WSL you need  
+
+**A PC running a 64-bit version of Windows 10.**
+
+**At least Windows 10 anniversary edition or later \(** Anniversary edition came out in Autumn 2016
+{% endhint %}
+
