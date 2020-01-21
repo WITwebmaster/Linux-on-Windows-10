@@ -1,4 +1,4 @@
-# Setup a linux webserver on windows 10
+# Windows Subsystem for Linux
 
 The Windows Subsystem for Linux lets developers run a Linux environment on windows 10 without the overhead of a virtual machine.
 
