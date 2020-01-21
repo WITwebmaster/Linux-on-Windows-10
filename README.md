@@ -1,16 +1,7 @@
-# Windows Subsystem for Linux Introduction
+# Setup a linux webserver on windows 10
 
-The Windows Subsystem for Linux lets developers run a Linux environment including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a virtual machine.
+The Windows Subsystem for Linux lets developers run a Linux environment without the overhead of a virtual machine.
+This is the documentation for a course I gave on setting up a linux webserver on windows 10 during professional development week in WIT
 
-You can:
-
-1. Choose your favorite Linux distributions [from the Microsoft Store](https://aka.ms/wslstore).
-2. Run common command-line free software such as `grep`, `sed`,  or`awk`
-3. Run Bash shell scripts and GNU/Linux command-line applications including:
-   * Tools: vim, emacs, tmux
-   * Languages: Javascript/node.js, Ruby, Python, C/C++, C\# & F\#, Rust, Go, etc.
-   * Services: sshd, MySQL, Apache, lighttpd
-4. Install additional software using own Linux distribution package manager.
-5. Invoke Windows applications using a Unix-like command-line shell.
-6. Invoke /Linux applications on Windows.
+![screen](https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2019/12/install-wsl-windows-10_.jpg?itok=Coix48NC)
 
