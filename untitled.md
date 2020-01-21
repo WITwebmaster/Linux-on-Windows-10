@@ -1,4 +1,8 @@
-# Introduction to windows 10 subsystem
+---
+description: Introduction to Windows 10 Linux subsystem
+---
+
+# Introduction
 
 The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a virtual machine.
 

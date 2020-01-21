@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Windows Subsystem for Linux](README.md)
-* [Introduction to windows 10 subsystem](untitled.md)
+* [Windows 10  Linux Subsystem](README.md)
+* [Introduction](untitled.md)
 
