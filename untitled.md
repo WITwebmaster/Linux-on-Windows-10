@@ -15,8 +15,8 @@ You can:
    * Languages: Javascript/node.js, Ruby, Python, C/C++, C\# & F\#, Rust, Go, etc.
    * Services: sshd, MySQL, Apache, lighttpd
 4. Install additional software using own Linux distribution package manager.
-5. Invoke Windows applications using a Unix-like command-line shell.
-6. Invoke Linux applications on Windows
+5. Run Windows applications using a Unix-like command-line shell.
+6. Run Linux applications on Windows
 
 {% hint style="info" %}
 To use WSL you need  
