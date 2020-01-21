@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Windows Subsystem for Linux Introduction](README.md)
 
