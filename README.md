@@ -12,5 +12,5 @@ You can:
    * Services: sshd, MySQL, Apache, lighttpd
 4. Install additional software using own Linux distribution package manager.
 5. Invoke Windows applications using a Unix-like command-line shell.
-6. Invoke /Linux applications on Windows.
+
 
