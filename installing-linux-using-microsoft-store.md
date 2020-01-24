@@ -15,3 +15,5 @@ Select the Ubuntu 18.40 LTS to install on your device
 
 ![](.gitbook/assets/ubuntu.jpg)
 
+ Click the **Get** \(or **Install**\) button.
+
