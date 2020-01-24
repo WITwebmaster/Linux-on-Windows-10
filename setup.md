@@ -2,7 +2,7 @@
 description: How to setup WLS on windows 10
 ---
 
-# Setup
+# Windows 10 Setup
 
 #### How to install Windows Subsystem for Linux using Settings
 
