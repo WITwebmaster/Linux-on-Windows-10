@@ -7,4 +7,5 @@
 * [Setting up a user account](setting-up-a-user-account.md)
 * [Sudo and root user](sudo-and-root-user.md)
 * [Setup Apache Webserver](setup-apache-webserver.md)
+* [Setup up a friendly folder structure for your server](setup-up-a-friendly-folder-structure-for-your-server.md)
 

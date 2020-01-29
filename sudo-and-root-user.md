@@ -22,7 +22,7 @@ The root user’s password is then requested before the command is actually exec
 
 ### Switching to the root user <a id="switching_to_the_root_user"></a>
 
-You can switch from a regular user to the root user. Thereafter, you do not have to place **'sudo'** in front of the commands that you execute. Because we are running this setup on a local machine and we are not worried about the security  we will run all of our commands at root . To switch to the root user use this command 
+You can switch from a regular user to the root user. Thereafter, you do not have to place **'sudo'** in front of the commands that you execute. Because we are running this setup on a local machine and we are not worried about the security  we will run all of our commands as root . To switch to the root use this command 
 
 ```text
 sudo su
