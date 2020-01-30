@@ -10,7 +10,7 @@ You should now be able to run Ubuntu as a program, you can pick it off the windo
 
 Once you run the Ubuntu program it will begin setup and ask you to create a user and setup a password. This user has full root level permissions using **sudo** command 
 
-![](.gitbook/assets/wponwsl_setup-unix-user-account%20%281%29.png)
+![](.gitbook/assets/wponwsl_setup-unix-user-account.png)
 
 Once you have setup a user then begin by updating Ubuntu and outdated packages using this command 
 
