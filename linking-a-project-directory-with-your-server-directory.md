@@ -16,3 +16,27 @@ mkdir /mnt/c/Users/windows-user-name-here/Documents/webserver
 ln -s /mnt/c/Users/windows-user-name-here/Documents/webserver  /var/www/html
 ```
 
+At this point if you open localhost in the browser you get a directory view like below. This is because you are opening the file in the browser but its not being served by the Apache webserver 
+
+![](.gitbook/assets/index22.png)
+
+So we need to tell Apache where out new document root is , to do this we need to by editing two Apache files . We will user [Nano](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/) the Linux command line text editor 
+
+```text
+nano /etc/apache2/apache2.conf
+```
+
+At the bottom of that file we can see the root directory is pointing to **/var/www/html ,** change this to where your new document route
+
+```text
+<Directory /mnt/c/Users/windows-user-name-here/Documents/webserver>
+        AllowOverride None
+        Require all granted
+</Directory>
+
+```
+
+Now open the second file 
+
+
+
