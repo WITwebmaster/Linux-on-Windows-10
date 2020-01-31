@@ -38,5 +38,35 @@ At the bottom of that file we can see the root directory is pointing to **/var/w
 
 Now open the second file 
 
+```text
+nano /etc/apache2/sites-available/000-default.conf
+```
 
+In the middle of that file we can see the Document Root is pointing to **/var/www/html ,** change this to where your new document route
+
+```text
+ServerAdmin webmaster@localhost
+DocumentRoot /mnt/c/Users/bhackett/Documents/webserver
+```
+
+Now create a new index.html file 
+
+Open a new text file and past in this content 
+
+```text
+<html>
+<header><title>hello world</title></header>
+<body>
+<strong>Hello world this is a html test</strong>
+</body>
+</html>
+```
+
+Save the file as index.html and copy  and paste this file into your new webserver document root. The restart the apache server
+
+```text
+service apache2 restart  
+```
+
+Now is you go to localhost in your browser you should see the hello world  html page 
 
