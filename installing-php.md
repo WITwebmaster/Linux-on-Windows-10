@@ -1,4 +1,4 @@
-# Installing php
+# Installing PHP
 
 PHP is the component of your setup that will process code to display dynamic content. It can run scripts, connect to your MySQL databases to get information, and hand the processed content over to your web server to display.
 

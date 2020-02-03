@@ -9,5 +9,6 @@
 * [Setup Apache Webserver](setup-apache-webserver.md)
 * [Finding the Linux file system](setup-up-a-friendly-folder-structure-for-your-server.md)
 * [Linking a project directory with your server directory](linking-a-project-directory-with-your-server-directory.md)
-* [Installing php](installing-php.md)
+* [Installing PHP](installing-php.md)
+* [Install Mysql](install-mysql.md)
 
