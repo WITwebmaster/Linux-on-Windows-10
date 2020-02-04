@@ -11,4 +11,5 @@
 * [Linking a project directory with your server directory](linking-a-project-directory-with-your-server-directory.md)
 * [Installing PHP](installing-php.md)
 * [Install Mysql](install-mysql.md)
+* [Install phpmyadmin](install-phpmyadmin.md)
 

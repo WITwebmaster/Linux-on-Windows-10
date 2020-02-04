@@ -18,3 +18,9 @@ You should see a page like this
 
 ![](.gitbook/assets/default_apache.png)
 
+Use the command below to get Apache to run on bootup so you dont have to manually start it every-time 
+
+```text
+systemctl enable apache2
+```
+
