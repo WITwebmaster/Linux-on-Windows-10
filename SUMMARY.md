@@ -12,4 +12,6 @@
 * [Installing PHP](installing-php.md)
 * [Install Mysql](install-mysql.md)
 * [Install phpmyadmin](install-phpmyadmin.md)
+* [Create a user for phpmyadmin](create-a-user-for-phpmyadmin.md)
+* [Create a new database in phpmyadmin](create-a-new-database-in-phpmyadmin.md)
 
