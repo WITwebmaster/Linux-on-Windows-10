@@ -37,7 +37,7 @@ No go to the **localhost/info.php** in the browser and you should see the php in
 If you get a forbidden message in the browser you need to set the file permissions for that file do that using the **chmod** command 
 {% endhint %}
 
-In this case as its a local setup we are going to set the file permissions to 777
+In this case as its a local setup we are going to set the [file permissions ](https://www.geeksforgeeks.org/permissions-in-linux/)to 777
 
 ```text
  chmod 777 var/www/html/info.php
