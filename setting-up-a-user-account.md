@@ -15,6 +15,6 @@ Once you run the Ubuntu program it will begin setup and ask you to create a user
 Once you have setup a user then begin by updating Ubuntu and outdated packages using this command 
 
 ```bash
-sudo apt update
+apt get update
 ```
 
