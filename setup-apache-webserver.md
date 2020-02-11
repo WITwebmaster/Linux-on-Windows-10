@@ -10,12 +10,6 @@ It allows you to serve content on the web — hence the name “web server”. I
 sudo apt-get install apache2
 ```
 
-Then start the apache service
-
-```text
-service apache2 start
-```
-
 By default, Apache puts a test HTML file in the web folder that you will be able to view from your browser on your computer.
 
 Open the Apache default web page in your web browser : and Enter this address `http://localhost`
