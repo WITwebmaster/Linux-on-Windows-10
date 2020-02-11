@@ -26,13 +26,7 @@ service apache2 restart
 
 Normally we should now be able to reach phpmyadmin at this url [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 
-But because of our configuration we need to create a symbolic link to phpmyadmin in our server root. We do that using this command
 
-```text
-ln -s /usr/share/phpmyadmin /var/www/html/admin/phpmyadmin
-```
-
-We should now be able to view the phpmyadmin login page at [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 
 
 

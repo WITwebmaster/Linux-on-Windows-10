@@ -17,5 +17,11 @@ To create MySQL superuser  follow these steps:
    GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' IDENTIFIED BY 'password';
    ```
 
+We now need to reset the database privileges
+
+```text
+FLUSH PRIVILEGES;
+```
+
 You should now be able to login to phpmyadmin and create a database
 
