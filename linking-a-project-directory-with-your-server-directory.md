@@ -16,6 +16,12 @@ mkdir /mnt/c/Users/windows-user-name-here/Documents/webserver
 ln -s /mnt/c/Users/windows-user-name-here/Documents/webserver  /var/www/html
 ```
 
+You now need to delete the index.html file out of the root 
+
+{% hint style="info" %}
+If you are still getting the default Apache page after creating the link and need delete the file via commandline. If you delete it through windows it will disappear but can still exist in the Linux environment 
+{% endhint %}
+
 At this point if you open localhost in the browser you get a directory view like below. This is because you are opening the file in the browser but its not being served by the Apache webserver 
 
 ![](.gitbook/assets/index22.png)
