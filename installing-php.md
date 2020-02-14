@@ -8,7 +8,7 @@ Once again, leverage the `apt` system to install PHP. In addition, include some 
 apt install php libapache2-mod-php php-mysql
 ```
 
-This will install the most up to date stable version of PHP  for Linux Server 18.04 which is 7.2
+This will install the most up to date stable version of PHP and its required dependencies for Linux Server 18.04 which is 7.2
 
 ### Testing PHP setup 
 
@@ -32,4 +32,14 @@ service apache2 restart
 No go to the **localhost/info.php** in the browser and you should see the php information  page below . So now php is working
 
 ![](.gitbook/assets/phpinfo-min1.png)
+
+{% hint style="warning" %}
+If you get a forbidden message in the browser you need to set the file permissions for that file do that using the **chmod** command 
+{% endhint %}
+
+In this case as its a local setup we are going to set the [file permissions ](https://www.geeksforgeeks.org/permissions-in-linux/)to 777
+
+```text
+ chmod 777 var/www/html/info.php
+```
 
