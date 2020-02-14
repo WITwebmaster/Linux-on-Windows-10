@@ -14,7 +14,7 @@
 * [Install phpmyadmin](install-phpmyadmin.md)
 * [Create a user for phpmyadmin](create-a-user-for-phpmyadmin.md)
 * [Create a new database in phpmyadmin](create-a-new-database-in-phpmyadmin.md)
-* [Install wordpress](install-wordpress.md)
+* [Install Wordpress](install-wordpress.md)
 * [wp-config settings](wp-config-settings.md)
 * [Wordpress setup](wordpress-setup.md)
 

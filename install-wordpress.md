@@ -1,4 +1,4 @@
-# Install wordpress
+# Install Wordpress
 
 Once the server is setup and a new database is in place we can install Wordpress cms . First of all we need to down the Wordpress files . We can do that here : [Download Link](https://wordpress.org/download/)
 
