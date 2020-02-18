@@ -1,8 +1,8 @@
 # Linking a project directory with your server directory
 
-On the last page we found the Linux file system  in windows , but it is a hidden file and buried deep withing the windows folder structure.
+On the last page we found the Linux file system  in windows , but it is a hidden file and buried deep within  the windows folder structure.
 
- So to simplify our process we are going to create a working directory within windows and link that directory with your WSL Apache server. 
+ So to simplify our process we are going to create a working directory within our documents folder  and link that directory with your WSL Apache server. 
 
 **Step 1:** We are going to make a directory for our files
 
