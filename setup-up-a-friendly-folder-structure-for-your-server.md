@@ -11,6 +11,6 @@ By default the Linux file system is in a hidden folder so you need to turn on hi
 The linux file root is located here 
 
 {% hint style="success" %}
-**C:\Users\yourusername\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows\_79rhkp1fndgsc\LocalState\rootfs**
+**C:\Users\yourusername\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows\_\(a unique code based on your setup\) \LocalState\rootfs**
 {% endhint %}
 
