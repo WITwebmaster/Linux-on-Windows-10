@@ -18,3 +18,13 @@
 * [wp-config settings](wp-config-settings.md)
 * [Wordpress setup](wordpress-setup.md)
 
+## Other CMS Setups <a id="cms"></a>
+
+* [Expressionengine CMS Setup](cms/expressionengine-cms-setup.md)
+* [Craft CMS Setup](cms/craft-cms-setup.md)
+* [Drupal CMS Setup](cms/drupal-cms-setup.md)
+* [Jooma CMS Setup](cms/jooma-cms-setup.md)
+* [Statmatic CMS Setup](cms/statmatic-cms-setup.md)
+* [Pagekit CMS Setup](cms/pagekit-cms-setup.md)
+* [Bolt CMS Setup](cms/bolt-cms-setup.md)
+
