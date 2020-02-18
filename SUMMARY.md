@@ -17,6 +17,7 @@
 * [Install Wordpress](install-wordpress.md)
 * [wp-config settings](wp-config-settings.md)
 * [Wordpress setup](wordpress-setup.md)
+* [Node.js setup for Linux](node.js-setup-for-linux.md)
 
 ## Other CMS Setups <a id="cms"></a>
 
