@@ -1,6 +1,6 @@
 # Node.js setup for Linux
 
-![](.gitbook/assets/590px-node.js_logo.svg%20%281%29.png)
+![](../.gitbook/assets/590px-node.js_logo.svg%20%281%29.png)
 
  **Node.js** is an open-source cross-platform JavaScript run-time environment that allows server-side execution of JavaScript code. This means that you can run JavaScript code on your machine as a standalone application, free of any web browser. **Node.js** is mainly used to build back-end server-side applications, but it is also very popular as a full-stack and front-end solution.
 
