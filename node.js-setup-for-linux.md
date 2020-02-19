@@ -14,6 +14,12 @@ Install **Node.js** from the repositories:
 apt install nodejs
 ```
 
+Now check what version you are running of node using this command 
+
+```text
+node --version
+```
+
 If the package in the repositories suits your needs, this is all you need to do to get set up with Node.js. In most cases, you’ll also want to also install `npm`, the Node.js package manager. You can do this by typing:
 
 ```text
