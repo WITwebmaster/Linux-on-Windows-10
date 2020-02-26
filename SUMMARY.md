@@ -19,6 +19,7 @@
 * [Wordpress setup](wordpress-setup.md)
 * [Node.js setup for Linux](node.js-setup-for-linux/README.md)
   * [Create a Node.js hello world application](node.js-setup-for-linux/create-a-node.js-hello-world-application.md)
+* [Importing an existing database into mysql](importing-an-existing-database-into-mysql.md)
 
 ## Other CMS Setups <a id="cms"></a>
 
